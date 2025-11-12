@@ -1,4 +1,4 @@
-# 💬 Conversational Lead Qualifier (TEA³D)
+# 💬 Qual-BOT
 
 An AI-powered **Conversational Lead Qualification System** designed for **e-commerce and online businesses** to automatically engage website visitors, understand their intent, and qualify leads based on smart conversation.  
 This project aims to help businesses focus on genuine buyers, save time, and improve conversion rates through intelligent automation.
